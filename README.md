@@ -1,16 +1,13 @@
-# tempx
+# TempX - Temperature Converter App
 
-A new Flutter project.
+![TempX Logo](app_logo.png)
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+TempX is a user-friendly temperature converter app that allows you to easily convert temperatures between different units. Whether you need to convert Fahrenheit to Celsius or vice versa, TempX has got you covered.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Convert temperatures between Fahrenheit, Celsius.
+- Simple and intuitive user interface.
+- Real-time conversion as you input the temperature value.
